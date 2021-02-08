@@ -1,19 +1,8 @@
 # SP2020-14
 PRIVACY-PRESERVING BASED ACCESS CONTROL FOR  HEALTH INFORMATION NETWORK
-## Introduction
-As technology is currently evolving, the way to communicate is also increasing
-which makes it easier to violate personal information right. Medical information is
-considered to be one of the information that has been violating the patient’s personal
-information right. Medical information is a record that keeps all the patient’s
-information, patient’s treatment history, patient’s disease along with the patient’s family
-information as well. It is considered to be important information for patient treatment
-and in the law area as well. In most of the hospitals, the patients do not have any
-authorization to access their medical information but all of the medical staff have access
-to their medical information even though the patient did not give any consent for them
-to be able to read the information. Moreover, the patient may not have treatment with
-only one hospital. It means that the patient’s information will be scattered and it will be
-hard to update all the medical information. Also, it will be hard for the patient when
-they need to ask for the medical information from one hospital and bring it to another
-hospital which they have to do by themselves.
+## Abstract
+Patient’s information is one of the information that is very essential for the hospital. It is being kept securely within the database of the hospital and only medical staff of that hospital can access. Patients will not be able to look at their medical information unless they ask for it. Also, it will be harder if they need to use their medical information for another hospital because patient’s information is not easily shared among the hospital. The patient will have to fill in all their information again and again if they go to a new hospital. Moreover, the patient has no rights to their information. Anyone within that hospital can easily access and see all the information without any consent of the patient. Furthermore, the patient may not have treatment with only one hospital. It means that the patient’s information will be scattered and it will be hard to update all the medical information.
+
+This project proposes to help accessing information between hospitals more securely and more trustable by using active directory federation services or ADFS. ADFS will help connect each hospital and give trust between each hospital as well. Moreover, it will come with a single sign-on or SSO that will give the patient more convenience in authenticating with only one set of credentials. The user will be able to access their information and all of the data between hospitals will be synchronized. 
 ## License
 COPYRIGHT OF MAHIDOL UNIVERSITY
